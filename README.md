@@ -59,8 +59,7 @@ src/br/com/dio/desafio/dominio
 
 ## Autor
 
-Desenvolvido por Millena Nunes.
+Projeto desenvolvido por Millena Nunes para estudo de POO.
 
-Projeto criado para estudo de POO.
 
 
