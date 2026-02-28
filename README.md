@@ -22,15 +22,13 @@ O sistema simula um ambiente de bootcamp, onde desenvolvedores podem se inscreve
 
 ## Estrutura do projeto
 
-
-src/br/com/dio/desafio/dominio
-├── Bootcamp
-├── Conteudo
-├── Curso
-├── Mentoria
-├── Dev
-└── Main
-
+src/br/com/dio/desafio/dominio  
+├── Bootcamp  
+├── Conteudo  
+├── Curso  
+├── Mentoria  
+├── Dev  
+└── Main  
 
 ---
 
@@ -53,10 +51,9 @@ src/br/com/dio/desafio/dominio
 
 ## Melhorias futuras
 
-- Implementar interface gráfica  
-- Persistência de dados  
-- Sistema de login  
-- Cadastro de conteúdos dinâmico  
+- Implementar interface gráfica
+- Sistema de autenticação
+- Cadastro dinâmico de conteúdos
 
 ---
 
@@ -64,5 +61,6 @@ src/br/com/dio/desafio/dominio
 
 Desenvolvido por Millena Nunes.
 
-Projeto criado para estudo de Programação Orientada a Objetos.
+Projeto criado para estudo de POO.
+
 
